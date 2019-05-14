@@ -1,5 +1,9 @@
 # graphql-codegen-typed-query
 
+```
+yarn add graphql-codegen-typed-query
+```
+
 Simple [`GraphQL Code Generator`](https://github.com/dotansimha/graphql-code-generator) plugin that makes your GraphQL queries be type-safe.
 
 ## How to use
