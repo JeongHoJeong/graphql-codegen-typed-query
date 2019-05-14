@@ -1,9 +1,18 @@
 {
   "name": "graphql-codegen-typed-query",
-  "version": "0.1.0",
-  "author": "Jeongho Jeong",
+  "description": "GraphQL Code Generator plugin that makes your GraphQL queries be type-safe",
+  "repository": "github:JeongHoJeong/graphql-codegen-typed-query",
+  "version": "0.1.1",
+  "author": {
+    "name": "Jeongho Jeong",
+    "email": "fiil12@hotmail.com"
+  },
   "main": "dist/plugin.js",
   "license": "MIT",
+  "keywords": [
+    "typescript",
+    "graphql"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc"
